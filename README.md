@@ -11,7 +11,6 @@ We explore and build at the intersection of **distributed systems**, **Rust**, a
 |------|-------------|
 | [Toyni](https://github.com/ciphercurve/toyni) | A new, emerging ZK proving system in Rust — designed for experimentation with STARKs |
 | [DISEQ](https://github.com/ciphercurve/DISEQ) | Distributed message sequencing engine with a novel ZK consensus mechanism |
-| [ciphercurve-trie](https://github.com/ciphercurve/ciphercurve-trie) | A minimal Rust Merkle Trie implementation, built for research and verification tooling |
 | [valence-zk-demo](https://github.com/ciphercurve/valence-zk-demo) | Trustless interchain development stack that we are building together with Timewave
 
 ---
