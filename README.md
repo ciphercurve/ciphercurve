@@ -20,7 +20,7 @@ We explore and build at the intersection of **distributed systems**, **Rust**, a
 Ciphercurve is founded and operated by [Jonas Pauli](https://github.com/jonas089),  
 a systems engineer and cryptography developer with **9+ years of open-source blockchain experience**, and over **3 years of professional Rust development**.
 
-His work focuses on building foundational infrastructure in ZK, EVM/Cosmos interoperability, and next-generation consensus mechanisms.
+His work focuses on building foundational infrastructure in ZK, Blockchain interoperability, and next-generation consensus mechanisms.
 
 We work closely with forward-thinking teams like [Timewave](https://github.com/timewave-computer) to push boundaries in proof systems and cross-chain infrastructure.
 
