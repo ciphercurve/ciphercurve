@@ -8,9 +8,8 @@ We explore and build at the intersection of **distributed systems**, **Rust**, a
 ### About
 
 Ciphercurve is founded and operated by [Jonas Pauli](https://github.com/jonas089),  
-a systems engineer and cryptography developer with **9+ years of open-source blockchain experience**, and over **3 years of professional Rust development**.
+a systems and cryptography engineer with **9+ years of open-source blockchain experience**, and **4 years of professional Rust development**.
 
-His work focuses on building foundational infrastructure in ZK, Blockchain interoperability, and next-generation consensus mechanisms.
 ---
 
 ### 🔗 Links
