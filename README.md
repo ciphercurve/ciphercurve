@@ -1,8 +1,7 @@
 # Ciphercurve
 
 **Open-source research & engineering lab based in Switzerland.**  
-We explore and build at the intersection of **distributed systems**, **Rust**, and **applied cryptography** — with a strong focus on **zero-knowledge protocols** and **modular blockchain infrastructure**.
-
+We are both an open source research lab and for-profit software company based in Switzerland. We specialized in deep distributed-systems and applied cryptography engineering and R&D, but our core business model is flexible and includes, but is not limited to, product, open-source and contract work.
 ---
 
 ### About
